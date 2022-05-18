@@ -11,4 +11,4 @@ I am a Cybersecurity Engineer, I am very happy to meet you, I am currently learn
 - 💬 Ask me about: technology, memes, anime.
 -⚡ Languages: Python3
 
-⭐️ From [KunalRaghav](https://github.com/SandroEscate)
+⭐️ From [SandroEscate](https://github.com/SandroEscate)
